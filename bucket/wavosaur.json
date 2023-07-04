@@ -21,12 +21,7 @@
         "}"
     ],
     "bin": "Wavosaur.exe",
-    "shortcuts": [
-        [
-            "Wavosaur.exe",
-            "Wavosaur"
-        ]
-    ],
+    "shortcuts": [["Wavosaur.exe", "Wavosaur"]],
     "persist": [
         "wavosaur.cfg",
         "wavosaur.ini",
